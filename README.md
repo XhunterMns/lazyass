@@ -1,0 +1,2 @@
+# lazyass
+payload creator 
