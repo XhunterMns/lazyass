@@ -31,7 +31,6 @@ puts""
   puts ""
   puts"5) Mac os payload".green
   puts""
-  puts "0)back <<".green
 puts""
   print"select your choice > "
 
